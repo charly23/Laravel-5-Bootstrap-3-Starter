@@ -163,10 +163,4 @@ Inspired by and based on [andrew13's Laravel-4-Bootstrap-Starter-Site](https://g
 ![Admin list users](http://i58.tinypic.com/2ujl5dh.jpg)
 
 ----
-<a name="feature9"></a>
-## Advanced alternatives
-If you are interested in advanced starter sites where you can get 70+ admin pages, 20+ frontend pages with color schemes and a CRUD generator then visit below links
 
-[Josh](http://goo.gl/Mnhunr)
-
-[Chandra](http://goo.gl/hk4ut3)
